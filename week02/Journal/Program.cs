@@ -5,7 +5,7 @@ class Program
     static void Main(string[] args)
     {
         // Creativity:
-        // 1. Added a mood rating (1-10) for every journal entry.
+        // 1. Added a mood rating (1-10) for the journal entry.
         // 2. Saves and loads data as a proper CSV file.
         // 3. Displays the total number of journal entries.
 
